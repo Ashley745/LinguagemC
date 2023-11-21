@@ -8,7 +8,7 @@ int main(){
     system("bin/clear");
     //system("clear");
     int num;
-    printf("Difite o ano e tecle enter\n");
+    printf("Digite o ano e tecle enter\n");
     scanf("%d",&num);
     if(num % 4 == 0)
         printf("O ano %d é anobissexto\n",num);
