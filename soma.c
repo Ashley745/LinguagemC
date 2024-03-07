@@ -12,7 +12,7 @@ int main(){
     scanf("%d",&numero2);
 
     resultado = numero1 + numero2;
-    printf("O resuktado da soma é %d\n\n",resultado);
+    printf("O resultado da soma é %d\n\n",resultado);
 
     printf("Posição em memória da variável número1 %p\n",&numero1);
     printf("Posição em memória da variável número1 %p\n",&numero2);
